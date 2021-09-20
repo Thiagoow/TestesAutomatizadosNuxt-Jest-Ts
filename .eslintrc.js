@@ -9,8 +9,10 @@ module.exports = {
     'plugin:nuxt/recommended',
     'prettier'
   ],
-  plugins: [
-  ],
+  plugins: [],
   // add your custom rules here
-  rules: {}
+  rules: {
+    // Deixa add console nos eventos:
+    'no-console': 'off'
+  }
 }

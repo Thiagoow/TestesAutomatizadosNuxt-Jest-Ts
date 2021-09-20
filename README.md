@@ -22,7 +22,7 @@ $ npm install
 $ npm run dev
 
 # Rodar os testes unitários e auto com o Jest:
-$ npm run test
+$ npm run jest
 
 # Fazer o build pra produção e executar o servidor:
 $ npm run build

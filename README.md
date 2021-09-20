@@ -6,7 +6,7 @@
 # Testes Unitários & Automáticos com Jest+Ts no Nuxt
 
 <p>Esse projeto foi feita por: <strong>Thiago Silva Lopes</strong>, em 09/2021;</br>
-Tendo como base, as aulas de "Testes automatizados no Nuxt", no Bootcamp Full Stack da <a href="https://bootcamp.cataline.io/">Cataline</a></br>.
+Tendo como base, as aulas de "Testes automatizados no Nuxt", no Bootcamp Full Stack da <a href="https://bootcamp.cataline.io/">Cataline</a>.</br>
 Sendo utilizada para utilizar e compreender na prática o uso do Jest como framework de testes.
 </p>
 
